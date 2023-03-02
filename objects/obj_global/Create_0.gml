@@ -1,0 +1,1 @@
+global.mined = BigFromInt(0);
