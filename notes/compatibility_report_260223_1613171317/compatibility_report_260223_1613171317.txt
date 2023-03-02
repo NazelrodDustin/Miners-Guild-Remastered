@@ -1,0 +1,22 @@
+Font font0 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font0\font0.gms1.png
+Game speed set to 60
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_score.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
